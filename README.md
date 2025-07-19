@@ -15,7 +15,7 @@
 ### Proyectos
 
 - [Auto Django](https://github.com/Covija97/autoDjango)
-- **Proyecto fin de Grado Superior**: [BadenTracker](https://github.com/Covija97/badentracker)
+- **Proyecto fin de Grado Superior:** [BadenTracker](https://github.com/Covija97/badentracker)
 > Batch file that automatically generates the structure described in w3school to create Django projects
 
 ## Otros
